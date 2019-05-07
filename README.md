@@ -19,6 +19,7 @@ Check on folders:
  -c or --check [optional directory path]
 
 Optional args:
+
  Filter code file types:
      -f or --filter [files filter]
      Default: \.ts*$|\.js*$
